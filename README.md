@@ -8,18 +8,18 @@ Mapel   : Bahasa Pemrograman<br>
 **Daftar isi**
 > * [PROJEK UAS](#projek-uas)
 > * [PENJELASAN PROGRAM](#penjelasan-program)
-> * [HASIL RUN PROGRAM](#script-dan-penjelasan)
+> * [HASIL RUN PROGRAM](#hasil-run-program)
 
 # `LINK YOUTUBE PENJELASAN PROGRAM`
-[YOUTUBE_MUHAMMAD_RIZKY](http://www.flowgorithm.org/download/)
+[YOUTUBE_MUHAMMAD_RIZKY](https://youtu.be/8hK4A6BEQN0)
 
 # `PROJEK UAS`
 ![img](img//1.png)<br>
 
 # `PENJELASAN PROGRAM`
 1. Pertama buat Package dan modul dengan struktur di bawah ini
-    ![img](img//2.png)<br>
-    * Note:tanpa folder ```__pychace__```
+![img](img//2.png)
+    * Note : tanpa folder ```__pychace__```
 
 2. Buka file ```__init__.py``` di folder ```model``` dan ketikan code berikut 
     ```python
