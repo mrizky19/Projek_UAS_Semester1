@@ -11,7 +11,10 @@ Mapel   : Bahasa Pemrograman<br>
 > * [HASIL RUN PROGRAM](#hasil-run-program)
 
 # `LINK YOUTUBE PENJELASAN PROGRAM`
-[YOUTUBE_MUHAMMAD_RIZKY](https://youtu.be/8hK4A6BEQN0)
+![ PDF  Tutorial ](/Bahasa%20Pemrograman%20UAS.pdf)
+
+# `PDF PENJELASAN PROGRAM`
+[PDF_MUHAMMAD_RIZKY](Bahasa Pemrograman UAS.pdf)
 
 # `PROJEK UAS`
 ![img](img//1.png)<br>
